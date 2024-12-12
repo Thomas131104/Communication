@@ -1,0 +1,14 @@
+F:\CSharp\Communication-TwoClients\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharp\Communication-TwoClients\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+F:\CSharp\Communication-TwoClients\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+F:\CSharp\Communication-TwoClients\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+F:\CSharp\Communication-TwoClients\Client\obj\Debug\net8.0\Client.dll
+F:\CSharp\Communication-TwoClients\Client\obj\Debug\net8.0\refint\Client.dll
+F:\CSharp\Communication-TwoClients\Client\obj\Debug\net8.0\Client.pdb
+F:\CSharp\Communication-TwoClients\Client\bin\Debug\net8.0\Client.exe
+F:\CSharp\Communication-TwoClients\Client\bin\Debug\net8.0\Client.deps.json
+F:\CSharp\Communication-TwoClients\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+F:\CSharp\Communication-TwoClients\Client\bin\Debug\net8.0\Client.dll
+F:\CSharp\Communication-TwoClients\Client\bin\Debug\net8.0\Client.pdb
+F:\CSharp\Communication-TwoClients\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+F:\CSharp\Communication-TwoClients\Client\obj\Debug\net8.0\ref\Client.dll
